@@ -12,6 +12,6 @@ Comando de execução para o front
 npm run dev
 
 Comando de execução para o back
-node --watch server.cjs
+node --watch server.cjs;
 npm prisma studio
 
