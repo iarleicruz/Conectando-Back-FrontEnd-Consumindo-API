@@ -19,3 +19,4 @@ Comando de execução para o back
 node --watch server.cjs;
 npm prisma studio
 
+
