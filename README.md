@@ -12,7 +12,10 @@ npm install express;
 Comando de execução para o front
 npm run dev
 
+acessar diretorio backend
+npx prisma db push
 Comando de execução para o back
 node --watch server.cjs;
 npm prisma studio
+
 
