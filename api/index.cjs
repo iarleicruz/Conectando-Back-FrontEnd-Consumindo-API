@@ -1,5 +1,3 @@
-const { app } = require ("../backend/server.cjs")
-
+const { app } = require("../backend/server.cjs")
 
 module.exports = app
-
